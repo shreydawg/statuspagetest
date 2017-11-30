@@ -1,0 +1,44 @@
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+.row{
+margin-bottom:20px;
+}
+.Well{
+background-color: #ebf1e8;
+border-color: #5cb85c;
+}
+.table{
+border:1px solid #ddd;
+}
+.td{
+border-top: 0;
+text-align: center;
+}
+.icon-circle{
+color:#5cb85c;
+font-size: 17px;
+}
+.icon-infocircle{
+color: #5bc0de;
+font-size: 17px;
+}
+.icon-minuscircle{
+color:#f0ad4e;
+font-size: 17px;
+}
+.icon-excircle{
+color:#BB0000;
+font-size: 17px;
+}
+.icon-pluscircle{
+color:#6E4CDD;
+font-size: 17px;
+}
+.tableHeader{
+background-image: linear-gradient(to bottom,#f5f5f5 0,#e8e8e8 100%);
+}
+.panelhead{
+margin-right: 90px;
+margin-left: -50px;
+}
